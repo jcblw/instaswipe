@@ -1,0 +1,14 @@
+{
+  "name": "instaswipe",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "echo \"No test yet.. :|\"; exit 1;"
+  },
+  "bin": {
+    "instaswipe": "cli/instaswipe.js"
+  },
+  "dependencies": {
+    "buffer-image-size": "^0.6.4",
+    "drawable": "^0.3.0"
+  }
+}
